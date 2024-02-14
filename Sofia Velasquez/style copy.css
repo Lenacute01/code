@@ -1,0 +1,9 @@
+..avatar {
+    position: relative; /* Posición relativa */
+    bottom: 20px; /* Mueve la imagen hacia abajo */
+  }
+
+.imagen{
+    width: 450px;
+height: 550px;
+}
