@@ -1,0 +1,32 @@
+#cuadro1{
+    border: 20px solid rgb(249, 75, 0);
+    margin-left: 80px;
+    padding-left: 30px;
+    background-image: url(imagenes/079e53f97080df6031a492e0d98f6c2d.jpg);
+    h1{color: rgb(255, 0, 0);}
+p{color: rgb(255, 255, 255);}
+
+}
+
+
+  #cuadro2{
+
+    background-color: blueviolet;
+    margin-top: 100px;
+    border: 20px solid rgb(206, 0, 182);
+    padding-top: 30px;
+    h1{color: rgb(255, 0, 0);}
+    p{color: rgb(52, 0, 0);}
+    
+  }  
+
+  #cuadro3{
+
+    background-color: rgb(255, 0, 0);
+    margin-right: 100px;
+    border: 20px solid rgb(73, 0, 0);
+    padding-right: 40px;
+
+    p{color: rgb(255, 255, 255);} width: 60px;
+    
+  }  
