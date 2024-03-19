@@ -1,0 +1,211 @@
+
+
+#pagina1{
+    width: 1000px;
+    height:1080px;
+    padding:200px;
+    border:20px #a00404 solid;
+background-color: #c50404;
+.imagen{
+        width: 300px;
+    height: 400px
+    align:center;}
+
+    h1{color: rgb(201, 227, 247);
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+}
+
+.estiloTexto {
+    color: rgb(0, 0, 60);
+    text-align: justify;
+    direction: ltr; 
+    text-indent: 20px;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    word-spacing: 5px;
+   }
+   p{font-family: Arial, Helvetica, sans-serif;}
+   .texto{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+   h3{
+    color: burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+dt{
+    color: aliceblue;
+}
+
+
+#cuadro1{
+    width: 1020px;
+    padding200px;
+    border:50px #8c1905 solid;
+background-color: #8c1905;
+align-content: center;
+}
+
+.estiloTexto {
+    color: rgb(0, 0, 60);
+    text-align: left;
+    direction: ltr; 
+    text-indent: 20px;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    word-spacing: 5px;
+   }
+   .texto{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: antiquewhite;}
+
+
+
+   #pagina2{
+    color: rgb(244, 244, 244);
+    text-align: right;
+    direction: ltr; 
+    text-indent: 30px;
+    letter-spacing: 5px;
+    line-height: 1;
+    word-spacing: 5px;
+    h1{color: #c50404;
+    font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    li{font-size: 40px;
+    color: aliceblue;}
+    .p1{color: antiquewhite;}
+   }
+   .texto{ font-family: 'Times New Roman', Times, serif;}
+
+
+
+#cuadrado2{
+    width: 900px;
+    padding:200px;
+    border:50px #0e0047 solid;
+align-content: center; 
+background-image: url(imagenes/IMG_1062.JPG);
+}
+
+
+
+.estilo2{
+    color: rgb(0, 0, 60);
+    text-align: right;
+    direction: ltr; 
+    text-indent: 20px;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    word-spacing: 5px;
+   }
+   .texto{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+
+   #pagina3{
+    color: rgb(125, 30, 151)87)68)5);
+    text-align: left;
+    direction: ltr; 
+    text-indent: 30px;
+    letter-spacing: 5px;
+    line-height: 1;
+    word-spacing: 5px;
+    h1{color: #04ffee;
+    font-size: 30px;}
+    li{font-size: 50px;
+    color: #eefeffb5;}
+.p2{color: rgb(0, 251, 255);}
+
+   }
+   .texto{ font-family: Georgia, 'Times New Roman', Times, serif;}
+
+
+
+#cuadrado3{
+    width: 900px;
+    padding:200px;
+    border:50px #3a014e solid;
+align-content: center; 
+background-image: url(imagenes/periodico-113.jpg);
+}
+
+
+
+.estilo3{
+    color: rgb(163, 163, 201);
+    text-align: left;
+    direction: ltr; 
+    text-indent: 20px;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    word-spacing: 5px;
+   .texto{ font-family: Verdana, Geneva, Tahoma, sans-serif;}
+}
+
+
+#pagina4{
+    color: rgb(94, 15, 53);
+    text-align:center;
+    direction: ltr; 
+    text-indent: 50px;
+    letter-spacing: 5px;
+    line-height: 1.3;
+    word-spacing: 5px;
+    h1{color: #ff0000;
+    font-size: 30px;}
+    li{font-size: 50px;
+    color: #e279ff;}
+   }
+   .p3{color: aliceblue;}
+   .texto{ font-family: sans-serif;}
+
+
+
+#cuadrado4{
+    width: 860px;
+    padding:200px;
+    border:70px #4c0c64 solid;
+align-content: left;
+background-image: url(imagenes/1-1cap.PNG); }
+
+
+
+.estilo4{
+    color: rgb(242, 229, 244);
+    text-align: center;
+    direction: ltr; 
+    text-indent: 30px;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    word-spacing: 5px;
+
+   .texto{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+}
+
+#pagina5{
+    color: rgb(94, 15, 53);
+    text-align:center;
+    direction: ltr; 
+    text-indent: 50px;
+    letter-spacing: 5px;
+    line-height: 1.3;
+    word-spacing: 5px;
+    h1{color: #fc9898;
+    font-size: 30px;}
+    li{font-size: 50px;
+    color: #e279ff;
+font-family: 'Courier New', Courier, monospace;}
+h3{color: #4c0c64;}
+   
+   }
+   
+   
+
+
+
+
+
+
